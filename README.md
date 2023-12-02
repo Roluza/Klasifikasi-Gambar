@@ -1,4 +1,4 @@
-# Klasifikasi-Gambar-Batu gunting kertas
+# Klasifikasi Gambar Batu gunting kertas
 
 Sebuah Machine Learning sederhana untuk mengklasifikasi gambar tangan (gunting, batu, kertas)
 
